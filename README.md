@@ -1,6 +1,15 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Livelink [Livelink](https://animated-muffin-667aa6.netlify.app/).
+
+Icon [https://react-icons.github.io/react-icons/].
+
+## Technology
+#### react
+#### Typescript
+
+
+
 
 ## Available Scripts
 
