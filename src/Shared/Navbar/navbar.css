@@ -1,0 +1,42 @@
+.conatainer{
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+.navbar {
+    background-color: cadetblue;
+    color: #fff;
+    padding: 20px 0;
+    box-shadow: 2px 3px 2px cadetblue;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 40;
+}
+
+.navbar-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.brand {
+    font-size: 28px;
+
+}
+
+.nav-menu {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+
+.nav-item  {
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+    margin: 0 5px;
+}
+

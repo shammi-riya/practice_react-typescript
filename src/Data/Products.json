@@ -1,0 +1,93 @@
+[
+    {
+      "name": "Smartphone",
+      "img":"https://i.ibb.co/PZdsFWR/180299-OWTIRC-717.jpg",
+      "brand": "Apple",
+      "productCode": "SP123",
+      "tax": 0.1,
+      "price": 999.99,
+      "extraTax": 0.05,
+      "stock": true,
+      "quantity": 0   
+    },
+    {
+      "name": "Laptop",
+      "img":"https://i.ibb.co/KVm8zG7/307306791-1123450614944386-6204786759970976494-n.jpg",
+      "brand": "Dell",
+      "productCode": "LT456",
+      "tax": 0.15,
+      "price": 1299.99,
+      "extraTax": 0.07,
+      "stock": true,
+      "quantity": 0   },
+   
+    {
+      "name": "T-shirt",
+      "img":"https://i.ibb.co/M9DTss5/5633025a54d77aedf50b7eec726fa0c5.jpg",
+      "brand": "Nike",
+      "productCode": "TS234",
+      "tax": 0.05,
+      "price": 29.99,
+      "extraTax": 0.02,
+      "stock": true,
+      "quantity": 0  },
+    {
+      "name": "Watch",
+      "img":"https://i.ibb.co/dWxFmQB/Untitled.jpg",
+      "brand": "Casio",
+      "productCode": "WC567",
+      "tax": 0.12,
+      "price": 79.99,
+      "extraTax": 0.04,
+      "stock": true,
+      "quantity": 0   
+},
+{
+  "name": "Smartphone",
+  "img":"https://i.ibb.co/sCKcgny/ORH8S60.jpg",
+  "brand": "Apple",
+  "productCode": "SP123",
+  "tax": 0.1,
+  "price": 999.99,
+  "extraTax": 0.05,
+  "stock": true,
+  "quantity": 0
+},
+
+{
+  "name": "In-Ear Sports Earbuds",
+  "img":"https://i.ibb.co/XtGqph2/1651516752-beats-fit-pro-rw-gold-1651516612.jpg",
+  "brand": "Jabra",
+  "productCode": "ELITE75T",
+  "tax": 0.1,
+  "price": 149.99,
+  "extraTax": 0.04,
+  "stock": true,
+  "quantity": 0
+},
+
+{
+  "name": "Laptop",
+  "img":"https://i.ibb.co/rvTPGB5/laptop-with-white-screen-isolated-white-wall-2.jpg",
+  "brand": "Dell",
+  "productCode": "LT456",
+  "tax": 0.15,
+  "price": 1299.99,
+  "extraTax": 0.07,
+  "stock": true,
+  "quantity": 0
+},
+{
+  "name": "Headphones",
+  "img":"https://i.ibb.co/QK1zH5n/1000-F-608649669-wn47-OBx58-Y6o-Vl7kyzh-ZT9t8-D0-V7zdi-W.webp",
+  "brand": "Sony",
+  "productCode": "HP789",
+  "tax": 0.08,
+  "price": 149.99,
+  "extraTax": 0.03,
+  "stock": false,
+  "quantity": 0
+}
+
+
+]
